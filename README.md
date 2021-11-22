@@ -1,2 +1,2 @@
 # Uchiha-Hideout
-My fles and my projects.
+My files and my projects.
